@@ -1,11 +1,13 @@
 # Programming and Tech News
 ## A View from the Garden
 
-* [2023-01-02 | Episode 0](./2023-01-02.md)
-* [2023-01-09 | Episode 1](./2023-01-09.md)
-* [2023-01-16 | Episode 2](./2023-01-16.md)
-* [2023-01-23 | Episode 3](./2023-01-23.md)
+### January 2023
 
+* [2023-01-30 | Episode 4](./2023-01-30.md)
+* [2023-01-23 | Episode 3](./2023-01-23.md)
+* [2023-01-16 | Episode 2](./2023-01-16.md)
+* [2023-01-09 | Episode 1](./2023-01-09.md)
+* [2023-01-02 | Episode 0](./2023-01-02.md)
 
 ### News Sources
 
